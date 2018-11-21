@@ -1,10 +1,10 @@
-﻿This was one of my first python projects from George Washington University's Data Analytics and Visualization course. The assignment explores introductory python functions such as reading and writing to CSV's and basic data manipulation.
+﻿This was one of my first python projects from George Washington University's Data Analytics and Visualization course. The assignment explores introductory python functions such as reading and writing to CSV's and basic data manipulation without the use of packages like NumPy or Pandas. Below are the two assignment criteria.
 
 
 
 ## Option 1: PyBank
 
-!
+
 
 In this challenge, you are tasked with creating a Python script for analyzing the financial records of your company. You will be given two sets of revenue data (`budget_data_1.csv` and `budget_data_2.csv`). Each dataset is composed of two columns: `Date` and `Revenue`. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
 
@@ -36,7 +36,7 @@ Your final script must be able to handle any such similarly structured dataset i
 
 ## Option 2: PyPoll
 
-![Vote-Counting](Images/Vote_counting.jpg)
+ 
 
 In this challenge, you are tasked with helping a small, rural town modernize its vote-counting process. (Up until now, Uncle Cleetus had been trustfully tallying them one-by-one, but unfortunately, his concentration isn't what it used to be.)
 
